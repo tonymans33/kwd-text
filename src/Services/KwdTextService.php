@@ -12,6 +12,6 @@ class KwdTextService
      */
     public function appendKwd($text)
     {
-        return $text . ' KWD';
+        return $text . ' KWDs';
     }
 }
