@@ -1,0 +1,32 @@
+{
+  "name": "tonymans33/kwd-text",
+  "description": "A simple package that appends 'KWD' currency to text.",
+  "type": "library",
+  "require": {
+    "illuminate/support": "^11.0",
+    "php": "^8.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Tonymans33\\KwdText\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Tonymans33\\KwdText\\KwdTextServiceProvider"
+      ],
+      "aliases": {
+        "KwdText": "Tonymans33\\KwdText\\Facades\\KwdText"
+      }
+    }
+  },
+  "authors": [
+    {
+      "name": "tonymans33",
+      "email": "tonymansour66@yahoo.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}
