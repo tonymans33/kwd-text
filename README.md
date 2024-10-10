@@ -3,7 +3,7 @@ A simple package that appends 'KWD' currency to text
 =======
 # KWD Text Package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/websight/kwd-text.svg?style=flat-square)](https://packagist.org/packages/websight/kwd-text)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/websight/kwd-text.svg?style=flat-square)](https://packagist.org/packages/tonymans33/kwd-text)
 [![Total Downloads](https://img.shields.io/packagist/dt/websight/kwd-text.svg?style=flat-square)](https://packagist.org/packages/websight/kwd-text)
 
 A simple Laravel package that appends the 'KWD' currency to text. This package makes it easy to format amounts or text strings with the Kuwaiti Dinar currency label.
